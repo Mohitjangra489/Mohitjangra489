@@ -1,5 +1,5 @@
 ## Hello👋 My name is Mohit 
-I am a MERN fullstack developer from India.
+I am a MERN fullstack developer from India.💻Interested in learning and working on challenging projects in the field of computer science.I am an analytical and versatile person and have full potential of getting success and growth🛩️. I am confident in my ability to design and implement efficient and effective software solutions to meet the needs of any organization. I am eager to continue honing my skills and expanding my knowledge in the field of computer science, and I am excited to bring my passion and dedication to any team that I join.
 
 ### Currently I am working with ...
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
